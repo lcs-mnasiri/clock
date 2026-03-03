@@ -11,7 +11,7 @@ import SwiftUI
 struct clockApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            LandingView()
         }
     }
 }
